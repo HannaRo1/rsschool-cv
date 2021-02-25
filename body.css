@@ -1,0 +1,17 @@
+h3 {
+  color:#00008B;
+  font-family: Georgia, serif;
+} 
+h4 {
+ 	color: #0000CD;
+ 	font-family: cursive, Georgia, serif;
+}
+img {
+ 	border-style: dotted;
+ 	border-color: #9370DB
+ 	width: 100px; 
+ 	
+}
+body {
+	background: #F5FFFA;
+}
